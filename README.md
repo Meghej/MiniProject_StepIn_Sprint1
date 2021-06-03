@@ -19,7 +19,7 @@ S No. |Folder          | Description
 
 SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-268983 |Meghej Khandelwal | Condition Monitoring | - | - | Variable | All |
+268983 |Meghej Khandelwal | Condition Monitoring & Maintenance Advisor | - | - | Variable | All |
 
 ## Challenges Faced and How Was It Overcome
 1. Searching for the logics that can calculate the remaining health of equipments using the limited signals provided by the industries
