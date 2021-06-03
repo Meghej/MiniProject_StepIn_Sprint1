@@ -18,5 +18,21 @@ There are a lot of features, some of them are as follows:
 5. Severity as per NAMUR standars
 
 
-# SWOT Analysis: 
-![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
+## SWOT Analysis: 
+![SWOT-Analysis](https://github.com/Meghej/MiniProject_StepIn_Sprint1/blob/123ac36754880c19672e13d1dd5a3021a067a2e7/Requirements/SWOT.png)
+
+## 4 Ws and 1 H: 
+### Who: 
+It's for any industry which requires condition monitoring of it's assets. Whereever there is a requirement of asset performance management, this product is a good solution. 
+
+### What:
+Condition Monitoring System and Maintenance Advisor which detects the problem, suggests the solutions and assist in maintenance planning of assets. 
+
+### When: 
+When an industry plans to stop any loss caused due to unannounced equipment failure. It will save a lot of money by increasing the efficiency and safety of assets. 
+
+### Where: 
+Industries or whereever APM is required. 
+
+### How: 
+By providing many applications, following are some of them : 
