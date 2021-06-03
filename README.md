@@ -42,6 +42,8 @@ Real Pars: https://realpars.com/
 
 ## Credits  
 My Company, Supervising Professor, Team Members  
+GitHub Template Credit : https://github.com/Sanchana-2k/LTTS_C_MiniProject.git
+
 
 
 
