@@ -35,4 +35,22 @@ When an industry plans to stop any loss caused due to unannounced equipment fail
 Industries or whereever APM is required. 
 
 ### How: 
-By providing many applications, following are some of them : 
+Signals are received from customer's devices, sensors, relays etc. There are logics stored which after categorizing the signals as per the blocks and type of asset starts calculating some parameters which will be useful for condition monitoring. Later based on the parameter received the next block categorizes the severity of the damage and generate alerts along with providing suggestions for those damages or alerts. 
+ 
+
+## Detail Requirements:
+
+### Highl Level Requirements: 
+There are many HLR, some of them are as follows:   
+- Condition Monitoring System  
+- Maintenance Advisory System  
+- Alert Generation  
+- Health Status  
+- Severity as per NAMUR standars 
+
+### Low Level Requirements: 
+There are many HLR, some of them are as follows:   
+- Internal Logic Implementation in SQL 
+- Counter Reset Option 
+- Security System 
+- Communication Protocol Management
